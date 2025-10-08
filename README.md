@@ -2,8 +2,6 @@
 
 Este repositorio contiene materiales, códigos y recursos para la asignatura **Ciencia de Datos II**. Está pensado para facilitar la colaboración y el desarrollo de proyectos relacionados con análisis de datos, aprendizaje automático y visualización.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nauerromero/Ciencia_de_Datos_II/blob/main/ArchivosCasoPractico1/CasoPractico1_Punto2.ipynb)
-
 ## Estructura del repositorio
 
 - `notebooks/` – Cuadernos de Jupyter y Colab para experimentos y análisis.
